@@ -1,5 +1,5 @@
 # Requerimientos
-Es necesario tener el archivo .env y el archivo firebase-admin.json se que puede encontrar en el siguiente enlace de drive: https://drive.google.com/drive/folders/14ooLRmbwQD2XbwTIFV0tCDVdoee30BWR?usp=drive_link descargar los archivos y colocarlos dentro del proyecto para que funcione correctamente el docker-compose.
+Es necesario tener los archivos .env y el archivo firebase-admin.json se que puede encontrar en el siguiente enlace de drive: https://drive.google.com/drive/folders/14ooLRmbwQD2XbwTIFV0tCDVdoee30BWR?usp=drive_link descargar los archivos y colocarlos dentro del proyecto para que funcione correctamente el docker-compose.
 
 * Correr el contenedor de doker-compose, mediante el comando:
 
